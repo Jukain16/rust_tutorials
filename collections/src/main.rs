@@ -11,6 +11,6 @@
     println!("The third element is {}", third);
     match v.get(2) {
         Some(third) => println!("The third element is {}", third),
-        None => println!("THere is no third element."), // OPtion<&T>
+        None => println!("There is no third element."), // Option<&T>
     }
 }
