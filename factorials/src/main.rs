@@ -1,10 +1,16 @@
 use std::io;
+fn factorial(num: u32) -> u32 {
+    if num <= 1 {
+        return 1;
+    }
+    num * factorial(num - 1);
+}
 fn main() {
     println!("Enter positive interger.");
-    let mut n = String::new();
-    io::stdin().read_line(&mut n)
+    let mut num = String::new();
+    io::stdin().read_line(&mut num)
         .expect("Failed to read line.");
-    let n: u32 = n.trim().parse()
-        .expect("Not a number");
-    let factorial = n * (n - 1) * (n - 2);
-}
+    let num: u32 = num.trim().parse()
+        .expect("Not a number.");
+    println!("{}", factorial(num));
+    }
