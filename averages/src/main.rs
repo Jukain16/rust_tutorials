@@ -15,4 +15,6 @@ fn mode() {
 
 fn main() {
     let v = vec![14, 20, 304, 45, 3, 3, 2, 14];
+    mean();
+    median();
 }
