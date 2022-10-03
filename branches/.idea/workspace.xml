@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1190b752-c65b-4abc-9376-c6271ee90c91" name="Changes" comment="" />
+    <list default="true" id="1190b752-c65b-4abc-9376-c6271ee90c91" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../minigrep/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../minigrep/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minigrep/target/debug/.fingerprint/minigrep-aeece574a8ad8f07/output-bin-minigrep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minigrep/target/debug/incremental/minigrep-23weywtdn3704/s-gdzcjtup0x-v2zoue-z5517x0tc56p/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minigrep/target/debug/incremental/minigrep-23weywtdn3704/s-gdzcjtup0x-v2zoue-z5517x0tc56p/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minigrep/target/debug/incremental/minigrep-23weywtdn3704/s-gdzcjtup0x-v2zoue-z5517x0tc56p/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minigrep/target/debug/incremental/minigrep-23weywtdn3704/s-gdzcjtup0x-v2zoue.lock" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +36,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/sarah/Code/Rust/branches",
+    "last_opened_file_path": "/home/sarah/Code/Java",
     "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true"
   }
 }]]></component>
