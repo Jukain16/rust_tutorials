@@ -32,5 +32,5 @@ fn main() {
             }
         mode = frequent.0;
     }
-    println!("The mean is {}, The median is {}, and the mode is {}", mean, median, mode);
+    println!("The mean is {}, the median is {}, and the mode is {}", mean, median, mode);
 }
