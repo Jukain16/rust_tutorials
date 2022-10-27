@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1de3535-5471-4b89-817d-0ab4d56e0b72" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../averages/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../averages/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../branches/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../branches/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../branches/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../branches/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../minigrep/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../minigrep/target/.rustc_info.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="aqcg418c" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gjkt7pb3WAa3kC24kLcFAgQtk5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/home/sarah/Code/Rust/square_root/Cargo.toml",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
+      <option name="command" value="run" />
+      <option name="channel" value="DEFAULT" />
+      <option name="requiredFeatures" value="true" />
+      <option name="allFeatures" value="false" />
+      <option name="emulateTerminal" value="false" />
+      <option name="withSudo" value="false" />
+      <option name="buildTarget" value="REMOTE" />
+      <option name="backtrace" value="SHORT" />
+      <envs />
+      <option name="isRedirectInput" value="false" />
+      <option name="redirectInputPath" value="" />
+      <method v="2">
+        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1de3535-5471-4b89-817d-0ab4d56e0b72" name="Changes" comment="" />
+      <created>1666909592450</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1666909592450</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
