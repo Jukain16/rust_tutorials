@@ -7,11 +7,15 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1de3535-5471-4b89-817d-0ab4d56e0b72" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../averages/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../averages/target/.rustc_info.json" afterDir="false" />
+    <list default="true" id="a1de3535-5471-4b89-817d-0ab4d56e0b72" name="Changes" comment="Deleted extra line">
+      <changelist_data name="Sarah" email="sarah" />
       <change beforePath="$PROJECT_DIR$/../branches/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../branches/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../branches/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../branches/src/main.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../minigrep/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/../minigrep/target/.rustc_info.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fizzbuzz/target/debug/incremental/fizzbuzz-3btov5rlhevqo/s-gevd3ogoe4-edqu2x-1lqv18h0606v7/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fizzbuzz/target/debug/incremental/fizzbuzz-3btov5rlhevqo/s-gevd3ogoe4-edqu2x-1lqv18h0606v7/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fizzbuzz/target/debug/incremental/fizzbuzz-3btov5rlhevqo/s-gevd3ogoe4-edqu2x-1lqv18h0606v7/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../fizzbuzz/target/debug/incremental/fizzbuzz-3btov5rlhevqo/s-gevd3ogoe4-edqu2x.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +23,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Sarah &lt;sarah&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MacroExpansionManager">
@@ -38,27 +47,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "last_opened_file_path": "/home/sarah/Code/Rust/square_root/Cargo.toml",
-    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true"
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "settings.editor.selected.configurable": "language.rust"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
-      <option name="command" value="run" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="emulateTerminal" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <envs />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,5 +72,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Deleted extra line" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted extra line" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
